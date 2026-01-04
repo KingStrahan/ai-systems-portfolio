@@ -1,13 +1,14 @@
-# Luciél Technologies — AI Systems Portfolio
+# AI Systems Portfolio — Strategic AI Orchestration
 **By King Strahan**  
 Technology that protects, breathes, and heals.
 
 ## About
 
-I’m an AI Systems Developer and Implementation Specialist focused on building **human-centered AI systems** that ship, scale, and support real users—especially neurodivergent minds.
+I design AI decision systems that help people and teams determine what to do first, what to ignore, and how to execute safely using AI.
 
-Across Custom GPTs and Base44 applications, I design and deploy AI systems centered on emotional intelligence, workflow automation, and practical implementation. This portfolio complements my professional background in implementation and customer onboarding by demonstrating how I design, ship, and iterate modern AI systems in real-world environments.
-
+My work sits at the intersection of strategy, systems thinking, and implementation. Rather than starting with automation, I focus on clarifying intent, constraints, and success metrics — then deploying AI workflows that support real-world decision-making.
+This portfolio demonstrates how I translate ambiguous problems into structured plans, executable systems, and measurable outcomes across customer operations, communication, and task orchestration.
+I also implement and ship these systems end-to-end using Custom GPTs, Base44 applications, and automation frameworks — ensuring that strategic decisions are carried through to production reliably.
 ---
 
 ## Systems Overview
