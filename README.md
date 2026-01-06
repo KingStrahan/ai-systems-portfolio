@@ -1,6 +1,11 @@
-# AI Systems Portfolio — Strategic AI Orchestration
-**By King Strahan**  
-Technology that protects, breathes, and heals.
+# AI Systems & Decision Architecture Portfolio  
+**King Strahan | Luciél Technologies**
+
+This repository contains applied AI systems and decision frameworks I’ve built to solve real-world ambiguity in operations, strategy, and automation.
+
+My work focuses on **decision clarity under constraint** — turning messy inputs into structured decisions, sequencing action intelligently, and designing systems that reduce friction *before* execution.
+
+This is not demo code. These systems are used in live contexts for strategic decision-making, discovery, and transformation.
 
 ## About
 
@@ -10,6 +15,33 @@ My work sits at the intersection of strategy, systems thinking, and implementati
 This portfolio demonstrates how I translate ambiguous problems into structured plans, executable systems, and measurable outcomes across customer operations, communication, and task orchestration.
 I also implement and ship these systems end-to-end using Custom GPTs, Base44 applications, and automation frameworks — ensuring that strategic decisions are carried through to production reliably.
 ---
+
+## Core Projects
+
+### Luciél Decision Engine (LDE)
+An internal strategic advisor designed to externalize and structure complex decision-making.
+
+LDE generates **advisor-grade Decision Briefs** that:
+- Clarify priorities under pressure
+- Explicitly define what to ignore
+- Surface tradeoffs, risks, and constraints
+- Sequence actions across 7 / 30 / 90 day horizons
+- Create clear artifacts for leadership, advisory, and interviews
+
+LDE is used as a thinking and alignment tool — not a product — to preserve judgment and reduce reactive decision-making.
+
+---
+
+### Luciél Agent Studio (LAS)
+A modular AI and automation orchestration platform designed to support discovery, systems design, and execution planning.
+
+LAS enables:
+- Rapid identification of automation opportunities
+- Flexible workflow design across tools and services
+- Translation of strategy into build-ready execution blueprints
+
+The focus is on **system design first**, automation second.
+
 
 ## Systems Overview
 
@@ -106,10 +138,11 @@ Every system I build prioritizes:
 I am pursuing long-term career opportunities where I can contribute as a builder, integrator, and systems thinker.
 
 Target roles include:
-- Technical Customer Success Engineer  
-- Implementation Specialist  
-- Solutions Engineer  
-- AI Integration and Deployment  
+- Strategic Operations & Transformation
+- Business Systems Design
+- AI & Automation Strategy
+- Founders’ Office / Special Projects
+- Advisory & Fractional Leadership
 
 ---
 
@@ -125,5 +158,9 @@ Target roles include:
 
 ---
 
-*Built with Soul-Tech philosophy by King Strahan | Luciél Technologies*
+## About
 
+Built and maintained by **King Strahan**  
+Founder, **Luciél Technologies**
+
+This work represents an ongoing practice in clarity, leverage, and responsible system design.
